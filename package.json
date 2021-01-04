@@ -1,0 +1,19 @@
+{
+  "name": "intango",
+  "version": "1.0.0",
+  "description": "Scrape images from URL to create HTML page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyalmahalal/intango.git"
+  },
+  "author": "Eyal Mahalal <mahalaleyal1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyalmahalal/intango/issues"
+  },
+  "homepage": "https://github.com/eyalmahalal/intango#readme"
+}
