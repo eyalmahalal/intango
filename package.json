@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/eyalmahalal/intango/issues"
   },
-  "homepage": "https://github.com/eyalmahalal/intango#readme"
+  "homepage": "https://github.com/eyalmahalal/intango#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "image-size": "^0.9.3",
+    "valid-url": "^1.0.9"
+  }
 }
